@@ -1,5 +1,2 @@
-created test1.txt file
-yes
-i am good
-123
+test1 is using for temparory purpose
 
